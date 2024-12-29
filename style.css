@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    color: aquamarine;
+    background-color: #000080;
+    padding: 10px;
+    margin: 5px;
+}
+
+header a {
+    padding: 3px;
+    text-decoration: none;
+    color: white;
+    border: 3px solid white;
+    border-radius: 5px;
+}
+main h1 {
+    text-align: center;
+    border: 2px solid #00FFFF;
+    border-radius: 20px;
+    background-color: #87CEFA;
+    padding: 3px;
+}
+footer {
+    background-color: burlywood;
+    padding: 5px;
+}
+
+footer p {
+    background-color: white;
+    padding: 10px;
+    font-family: sans-serif;
+}
+
+nav {
+    text-align: center;
+    margin: 25px 5px;
+    padding: 50 px;
+}
+
+nav a {
+    font-weight: bold;
+    color: black;
+    font-family: sans-serif;
+    border: 3px solid lightblue;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 20px;
+}
